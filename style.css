@@ -1,0 +1,48 @@
+.header{
+    background: rgba(122, 117, 141, 0.308);
+    border: solid black 2px;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+    
+}
+body{
+    background-color: #31637a;
+}
+
+#gridGral{
+    border: solid black 2px;
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: row;
+    
+
+}
+#gridLeft{
+    border: solid black 2px;
+    width: 400px;
+    height: 800px;
+    padding: 0px;
+    margin-right: 100px;
+
+    
+}
+#gridRight{
+    border: solid black 2px;
+    width: 800px;
+    height: 800px;
+    padding: 0px;
+    margin: 0px;
+
+    
+}
+
+.footer{
+    border: solid black 2px;
+}
